@@ -1,6 +1,6 @@
 [![PyPI version](https://badge.fury.io/py/pyEstradasPT.svg)](https://badge.fury.io/py/pyEstradasPT)
 
-# pyUnderLX
+# pyEstradasPT
 Python library to retrieve information from [Estradas.pt](http://estradas.pt)
 
 ## Requirements
