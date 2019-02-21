@@ -5,7 +5,7 @@ long_description = open('README.md').read()
 
 setup(
     name='pyEstradasPT',
-    version='1.0.0',
+    version='1.0.1',
     license='MIT License',
     url='https://github.com/dpjrodrigues/pyEstradasPT',
     author='Diogo Rodrigues',
@@ -18,7 +18,6 @@ setup(
     platforms='any',
     install_requires=[
         'aiohttp',
-        'json'
       ],
     classifiers=[
         'License :: OSI Approved :: MIT License',
