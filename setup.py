@@ -5,7 +5,7 @@ long_description = open('README.md').read()
 
 setup(
     name='pyEstradasPT',
-    version='1.0.1',
+    version='1.0.2',
     license='MIT License',
     url='https://github.com/dpjrodrigues/pyEstradasPT',
     author='Diogo Rodrigues',
