@@ -9,7 +9,7 @@ Python library to retrieve information from [Estradas.pt](http://estradas.pt)
 
 ## Changelog
 
-1.0.0 First Version
+1.0.1 First Version
 
 ## Credits
 Values are obtained from [Estradas.pt](http://estradas.pt)
