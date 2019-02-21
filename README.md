@@ -5,6 +5,7 @@ Python library to retrieve information from [Estradas.pt](http://estradas.pt)
 
 ## Requirements
 - aiohttp
+- json
 
 ## Changelog
 
